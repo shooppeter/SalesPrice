@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "SalesRules"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-SalesRules-4ea4a4c4-b992-4aee-9365-7cc81faa6eb9;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
