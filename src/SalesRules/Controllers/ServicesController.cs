@@ -8,6 +8,7 @@ using Microsoft.AspNet.Mvc;
 
 namespace SalesRules.Controllers
 {
+    
     [Route("api/[controller]")]
     public class ServicesController : Controller
     {
